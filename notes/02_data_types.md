@@ -1,9 +1,3 @@
-Yes — **exactly this manner**. Your Variables notes are clean, structured, and not unnecessarily huge. We should make **Data Types** follow the same style and level.
-
-Use this for `notes/02_data_types.md`:
-
-::contentReference[oaicite:0]{index="0"}
-
 # Python Data Types
 
 ## 1. What is a Data Type?
